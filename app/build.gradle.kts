@@ -9,7 +9,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "tech.illusion.space24"
+        applicationId = "com.come2see.vibelabtest"
         minSdk = 35
         targetSdk = 35
         versionCode = 1
